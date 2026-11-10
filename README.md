@@ -21,3 +21,18 @@ A modern weather application built with **React**, **Bootstrap**, and **OpenWeat
 1. Clone the repository:
    ```bash
    git clone https://github.com/Zaid2694/WeatherAppUsingReact.git
+   2. Install dependencies
+2. Install dependencies
+Run the following command to install all required packages:
+npm install
+3. Start the development server
+Once the installation is complete, start the app by running:
+npm start
+🔑 API Key Configuration
+This project uses the OpenWeatherMap API. To use your own API key:
+
+Get a free API key from OpenWeatherMap.
+
+Open src/Components/Weather.js.
+
+Replace the API key in all Axios calls with your own key.
