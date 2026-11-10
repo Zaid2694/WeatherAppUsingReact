@@ -23,20 +23,3 @@ class App extends Component {
 
 export default App;
 
-// <Router>
-//   <div className='container-fluid p-0'>
-//     <Header />
-//     <Routes>
-//       <Route path='/'>
-//         element ={<Home />}
-
-//       </Route>
-//       <Route path='/weather'>
-//         element ={<Weather />}
-
-
-//       </Route>
-//       <Weather />
-//     </Routes>
-//   </div>
-// </Router>
